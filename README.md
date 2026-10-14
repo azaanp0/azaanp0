@@ -8,7 +8,7 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=azaanp0&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=azaanp0.azaanp0" alt="Profile Views" />
 </div>
 
 <br>
