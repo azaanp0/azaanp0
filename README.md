@@ -182,7 +182,7 @@ flowchart LR
   <a href="https://www.linkedin.com/in/azaam-alamrani-a1292b355">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/yzi7i_">
+  <a href="https://www.instagram.com/i0z8i">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/17rDnLk33U/">
